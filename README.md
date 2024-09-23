@@ -44,3 +44,6 @@ print(f"Happy Coding! {Emoon.SMILE}")
 
 ## `📦` Installation
 **Clone this repository to your local machine using:**
+```bash
+git clone https://github.com/Luunarr/moon
+```
