@@ -17,3 +17,8 @@ The `Cmoon` class defines various foreground colors that can be used in terminal
 ```python
 print(f"{Cmoon.RED}This text is red!{Cmoon.RESET}")
 ```
+
+### ✨ Smoon
+The `Smoon` class provides text styling options like bold, underline, and italics.
+
+#### Example Usage
