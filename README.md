@@ -22,3 +22,6 @@ print(f"{Cmoon.RED}This text is red!{Cmoon.RESET}")
 The `Smoon` class provides text styling options like bold, underline, and italics.
 
 #### Example Usage
+```python
+print(f"{Smoon.BOLD}This text is bold!{Smoon.RESET}")
+```
