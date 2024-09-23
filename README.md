@@ -54,9 +54,6 @@ git clone https://github.com/Luunarr/moon
 ## `🤝` Contributing
 **Contributions are welcome! Please create a pull request for any improvements or bug fixes.**
 
-## `🙌` Acknowledgements
-- **Inspired by terminal color and style management libraries. **
-
 ## `🔗` Links
 - **Lunar: [GitHub Repository](https://github.com/Luunarr)**
 - **Moon: [GitHub Repository](https://github.com/Luunarr/moon)**
