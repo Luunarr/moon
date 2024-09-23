@@ -48,16 +48,16 @@ print(f"Happy Coding! {Emoon.SMILE}")
 git clone https://github.com/Luunarr/moon
 ```
 
-## 📜 License
-This project is licensed under the MIT License.
+## `📜` License
+**This project is licensed under the MIT License.**
 
-## 🤝 Contributing
-Contributions are welcome! Please create a pull request for any improvements or bug fixes.
+## `🤝` Contributing
+**Contributions are welcome! Please create a pull request for any improvements or bug fixes.**
 
-## 🙌 Acknowledgements
+## `🙌` Acknowledgements
 - Inspired by terminal color and style management libraries. 
 
-## 🔗 Links
+## `🔗` Links
 - **Lunar**: [GitHub Repository](https://github.com/Luunarr)
 - **Moon**: [GitHub Repository](https://github.com/Luunarr/moon)
 
