@@ -14,3 +14,6 @@ This repository contains a set of classes for color and style management in term
 The `Cmoon` class defines various foreground colors that can be used in terminal output.
 
 #### Example Usage
+```python
+print(f"{Cmoon.RED}This text is red!{Cmoon.RESET}")
+```
