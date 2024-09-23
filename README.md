@@ -1,6 +1,6 @@
-# 🌙 Moon
+# `🌙` Moon
 
-## 🌌 Overview
+## `🌌` Overview
 This repository contains a set of classes for color and style management in terminal applications using ANSI escape codes. The classes defined here are:
 
 - **Cmoon**: For foreground colors.
@@ -8,9 +8,9 @@ This repository contains a set of classes for color and style management in term
 - **Bmoon**: For background colors.
 - **Emoon**: For emojis.
 
-## 🎨 Classes
+## `🎨` Classes
 
-### 🌈 Cmoon
+### `🌈` Cmoon
 The `Cmoon` class defines various foreground colors that can be used in terminal output.
 
 #### Example Usage
@@ -18,7 +18,7 @@ The `Cmoon` class defines various foreground colors that can be used in terminal
 print(f"{Cmoon.RED}This text is red!{Cmoon.RESET}")
 ```
 
-### ✨ Smoon
+### `✨` Smoon
 The `Smoon` class provides text styling options like bold, underline, and italics.
 
 #### Example Usage
