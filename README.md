@@ -38,3 +38,6 @@ print(f"{Bmoon.GREEN}This text has a green background!{Bmoon.RESET}")
 The `Emoon` class contains a variety of emojis that can be printed in terminal applications.
 
 #### Example Usage
+```python
+print(f"Happy Coding! {Emoon.SMILE}")
+```
