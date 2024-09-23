@@ -47,3 +47,18 @@ print(f"Happy Coding! {Emoon.SMILE}")
 ```bash
 git clone https://github.com/Luunarr/moon
 ```
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🤝 Contributing
+Contributions are welcome! Please create a pull request for any improvements or bug fixes.
+
+## 🙌 Acknowledgements
+- Inspired by terminal color and style management libraries. 
+
+## 🔗 Links
+- **Lunar**: [GitHub Repository](https://github.com/Luunarr)
+- **Moon**: [GitHub Repository](https://github.com/Luunarr/moon)
+
+**Happy Coding! 🎉🌙**
