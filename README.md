@@ -30,3 +30,6 @@ print(f"{Smoon.BOLD}This text is bold!{Smoon.RESET}")
 The `Bmoon` class allows for setting background colors in terminal output.
 
 #### Example Usage
+```python
+print(f"{Bmoon.GREEN}This text has a green background!{Bmoon.RESET}")
+```
