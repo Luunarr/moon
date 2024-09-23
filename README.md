@@ -26,7 +26,7 @@ The `Smoon` class provides text styling options like bold, underline, and italic
 print(f"{Smoon.BOLD}This text is bold!{Smoon.RESET}")
 ```
 
-### 🖌️ Bmoon
+### `🖌️` Bmoon
 The `Bmoon` class allows for setting background colors in terminal output.
 
 #### Example Usage
@@ -34,8 +34,7 @@ The `Bmoon` class allows for setting background colors in terminal output.
 print(f"{Bmoon.GREEN}This text has a green background!{Bmoon.RESET}")
 ```
 
-
-### 😊 Emoon
+### `😊` Emoon
 The `Emoon` class contains a variety of emojis that can be printed in terminal applications.
 
 #### Example Usage
