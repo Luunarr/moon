@@ -3,10 +3,10 @@
 ## `🌌` Overview
 **This repository contains a set of classes for color and style management in terminal applications using ANSI escape codes. The classes defined here are:**
 
-- **Cmoon**: For foreground colors.
-- **Smoon**: For text styles.
-- **Bmoon**: For background colors.
-- **Emoon**: For emojis.
+- **Cmoon: For foreground colors.**
+- **Smoon: For text styles.**
+- **Bmoon: For background colors.**
+- **Emoon: For emojis.**
 
 ## `🎨` Classes
 
@@ -55,10 +55,10 @@ git clone https://github.com/Luunarr/moon
 **Contributions are welcome! Please create a pull request for any improvements or bug fixes.**
 
 ## `🙌` Acknowledgements
-- Inspired by terminal color and style management libraries. 
+**- Inspired by terminal color and style management libraries. **
 
 ## `🔗` Links
-- **Lunar**: [GitHub Repository](https://github.com/Luunarr)
-- **Moon**: [GitHub Repository](https://github.com/Luunarr/moon)
+- **Lunar: [GitHub Repository](https://github.com/Luunarr)**
+- **Moon: [GitHub Repository](https://github.com/Luunarr/moon)**
 
 **Happy Coding! 🎉🌙**
